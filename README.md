@@ -1,4 +1,5 @@
 [![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=noxone23_code-quality-tooling-and-code-review)](https://sonarcloud.io/summary/new_code?id=noxone23_code-quality-tooling-and-code-review)
+
 # Connect SonarQube Cloud
 
 (difficulty: 🔥)
