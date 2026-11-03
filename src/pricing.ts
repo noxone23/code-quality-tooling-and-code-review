@@ -33,3 +33,4 @@ export function calculateTotal(
   const shipping = total < FREE_SHIPPING_FROM ? SHIPPING_COST : 0;
   return roundToCents(total + shipping);
 }
+// SonarQube test change
